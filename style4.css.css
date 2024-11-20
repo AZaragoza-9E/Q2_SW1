@@ -1,0 +1,17 @@
+body {
+	background-color: #496A81;
+	color: #B3AF8F;
+}
+
+.container {
+	background-color: #373F51;
+}
+
+img {
+	width: 150px;
+}
+
+.footer {
+  text-align: center;
+  font-family: Dancing Script;
+}
